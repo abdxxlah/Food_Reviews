@@ -2,6 +2,7 @@
 Food Reviews Personal Website made using JavaScript, HTML, and CSS along with connecting GMail API to send specialized comments. Also connected Google Maps to re-direct over to closest burger near the client.
 
 <br></br>
+![plot](WebDevProj/images/Food_Reviews_SS.png)
 
 Download the code onto your system, then open the file, flexbox.html. 
 <br></br>
